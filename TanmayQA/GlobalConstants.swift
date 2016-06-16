@@ -11,8 +11,8 @@ let ATD_CLASSIFIER_UN = "[ATD Watson UN]"
 let ATD_CLASSIFIER_PW = "[ATD Watson PW]"
 
 let SATD_CLASSIFIERS = ["GPE": "3a84d1x62-nlc-20473"]
-let SATD_CLASSIFIER_UN = "[ATD Watson UN]"
-let SATD_CLASSIFIER_PW = "[ATD Watson PW]"
+let SATD_CLASSIFIER_UN = "[SATD Watson UN]"
+let SATD_CLASSIFIER_PW = "[SATD Watson PW]"
 
 let SERSE_RESULT_PAGES = 5
 let SERSE_GOOGLE_KEY = "[Google CSE API Key]"
